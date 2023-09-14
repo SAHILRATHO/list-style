@@ -1,0 +1,18 @@
+
+#state{
+    color: black;
+    font-family: 'Oswald', sans-serif;
+}
+.li1,.li2, .li3,.li4{
+    color:  rgba(255, 72, 0, 0.753);
+    text-decoration:underline;
+    font-family: 'Oswald', sans-serif;
+}
+.ul1,.ul2,.ul3,.ul4 {
+    color: darkmagenta;
+    font-family: 'Oswald', sans-serif;
+}
+ol{
+    list-style-type:square;
+    list-style-image:url("C:\Users\ucs\Desktop\items.png");
+}
