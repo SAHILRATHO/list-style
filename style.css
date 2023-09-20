@@ -1,4 +1,8 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Shade&family=Oswald:wght@700&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bungee+Shade&family=Oswald:wght@700&family=Pacifico&display=swap');
+body{
+    background-color: lightblue;
+}
 #state{
     color: black;
     font-family: 'Oswald', sans-serif;
@@ -11,8 +15,4 @@
 .ul1,.ul2,.ul3,.ul4 {
     color: darkmagenta;
     font-family: 'Oswald', sans-serif;
-}
-ol{
-    list-style-type:square;
-    list-style-image:url("C:\Users\ucs\Desktop\items.png");
 }
